@@ -1,7 +1,6 @@
 # Design System
 
 A reusable and customizable React component library built with **Vite**, **TypeScript**, **Tailwind CSS**, and **Storybook**. It includes accessible and consistent UI elements like inputs, selects, toasts, and typography components designed for scalable frontend development. 
-Checkout the live Website at: https://design-system-ten-fawn.vercel.app/
 
 ## ✨ Features
 
@@ -70,4 +69,5 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 This project is licensed under the MIT License.
 
 ## Sample Output
-![image](https://github.com/user-attachments/assets/73a11473-d10c-4b48-b1af-e991386d2e5d)
+![image](https://github.com/user-attachments/assets/a93744fa-2c18-43e9-961e-4cc18a2513b8)
+
