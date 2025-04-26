@@ -206,11 +206,13 @@ export const AllVariants: Story = {
       <TextInput
         label="Email"
         placeholder="Enter your email"
+        type="email"
         startIcon={<Mail className="h-5 w-5 text-gray-400" />}
       />
-            <TextInput
+      <TextInput
         label="Password"
         placeholder="Enter your password"
+        type="password"
         startIcon={<Lock className="h-5 w-5 text-gray-400" />}
       />
     </div>
