@@ -1,0 +1,5 @@
+export { default as Caption } from "./Caption"
+export { default as Heading } from "./Heading"
+export { default as HelperText } from "./HelperText"
+export { default as Label } from "./Label"
+export { default as Paragraph } from "./Paragraph"
